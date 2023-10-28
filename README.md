@@ -20,14 +20,14 @@ Università degli Studi di Padova
 
 ## Membri del Gruppo
 
-| Nominativo      |
-| --------------- |
-| Andrea Barutta  |
-| Riccardo Smanio |
-| Francesco Pozza |
-| Endy Hysa       |
-| Lisien Skenderi |
-| Davide Diotto   |
-| Nicola Preto    |
+| Nominativo      | Matricola |
+| --------------- | ---------|
+| Andrea Barutta  | 2042355 |
+| Riccardo Smanio | 1126491|
+| Francesco Pozza | 1174610|
+| Endy Hysa       |2046424|
+| Lisien Skenderi | 2023461|
+| Davide Diotto   | 2042334|
+| Nicola Preto    |2042371|
 
 E-mail: byteops.swe@gmail.com
