@@ -7,14 +7,11 @@ Università degli Studi di Padova
 
 ## Descrizione della Struttura del Repository
 
-- **Verbali**: Trascrizione formale delle riunioni interne ed esterne, suddivisa in:
-  - Candidatura: Verbali redatti durante il periodo di candidatura
-  - RTB: Verbali redatti per la revisione RTB
-  - PB: Verbali redatti per la revisione PB
 - **Candidatura**: Documenti relativi alla candidatura per i capitolati, inclusi:
   - Preventivo dei costi e impegni assunti
   - Lettera di presentazione
   - Valutazione dei capitolati
+  - Verbali: Trascrizione formale delle riunioni interne ed esterne svolte durante il periodo
 - **RTB**
 - **PB**
 
