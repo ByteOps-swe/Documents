@@ -13,6 +13,12 @@ Università degli Studi di Padova
   - Valutazione dei capitolati
   - Verbali: Trascrizione formale delle riunioni interne ed esterne svolte durante il periodo
 - **RTB**
+  - Analisi dei requisiti
+  - Glossario
+  - Piano di progetto
+  - Piano di qualifica
+  - Norme di progetto
+  - Verbali: Trascrizione formale delle riunioni interne ed esterne svolte durante il periodo
 - **PB**
 
 ## Membri del Gruppo
