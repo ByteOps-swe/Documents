@@ -7,12 +7,12 @@ Università degli Studi di Padova
 
 ## Descrizione della Struttura del Repository
 
-- **Candidatura**: Documenti relativi alla candidatura per i capitolati, inclusi:
+- **Candidatura**: Documenti relativi alla candidatura per i capitolati, include:
   - Preventivo dei costi e impegni assunti
   - Lettera di presentazione
   - Valutazione dei capitolati
   - Verbali: Trascrizione formale delle riunioni interne ed esterne svolte durante il periodo
-- **RTB**
+- **RTB**: Documenti relativi alla revsione RTB, include:
   - Analisi dei requisiti
   - Glossario
   - Piano di progetto
