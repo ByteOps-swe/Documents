@@ -7,19 +7,24 @@ Università degli Studi di Padova
 
 ## Descrizione della Struttura del Repository
 
-- **Candidatura**: Documenti relativi alla candidatura per i capitolati, include:
-  - Preventivo dei costi e impegni assunti
-  - Lettera di presentazione
-  - Valutazione dei capitolati
-  - Verbali: Trascrizione formale delle riunioni interne ed esterne svolte durante il periodo
-- **RTB**: Documenti relativi alla revsione RTB, include:
-  - Analisi dei requisiti
-  - Glossario
-  - Piano di progetto
-  - Piano di qualifica
-  - Norme di progetto
-  - Verbali: Trascrizione formale delle riunioni interne ed esterne svolte durante il periodo
-- **PB**
+**Nota**: Nei seguenti elenchi, i nomi in grassetto identificano directory.
+
+- **Documenti esterni**: Documenti destinati ad uso interno.
+  - **Verbali**: Trascrizione formale delle riunioni esterne svolte;
+  - Analisi dei requisiti v2.0.0;
+  - Manuale utente v.1.0.0;
+  - Piano di progetto v.2.0.0;
+  - Piano di qualifica v.2.0.0;
+  - Preventivo costi e assunzione impegni.
+- **Documenti interni**: Documenti destinati ad uso esterno.
+  - **Verbali**: Trascrizione formale delle riunioni interne svolte;
+  - Glossario v.2.0.0;
+  - Norme di progetto v.2.0.0;
+  - Specifica tecnica v.1.0.0;
+  - Valutazione capitolati;
+- Lettera di presentazione Candidatura;
+- Lettera di presentazione RTB;
+- Lettera di presentazione PB.
 
 ## Membri del Gruppo
 
