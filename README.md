@@ -9,14 +9,14 @@ Università degli Studi di Padova
 
 **Nota**: Nei seguenti elenchi, i nomi in grassetto identificano directory.
 
-- **Documenti esterni**: Documenti destinati ad uso interno.
+- **Documenti esterni**: Documenti destinati ad uso esterno.
   - **Verbali**: Trascrizione formale delle riunioni esterne svolte;
   - Analisi dei requisiti v2.0.0;
   - Manuale utente v.1.0.0;
   - Piano di progetto v.2.0.0;
   - Piano di qualifica v.2.0.0;
   - Preventivo costi e assunzione impegni.
-- **Documenti interni**: Documenti destinati ad uso esterno.
+- **Documenti interni**: Documenti destinati ad uso interno.
   - **Verbali**: Trascrizione formale delle riunioni interne svolte;
   - Glossario v.2.0.0;
   - Norme di progetto v.2.0.0;
